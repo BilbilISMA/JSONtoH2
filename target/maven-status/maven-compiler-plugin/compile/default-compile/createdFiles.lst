@@ -1,0 +1,7 @@
+com\elbatechproj\domain\PeopleByCountry.class
+com\elbatechproj\domain\People.class
+com\elbatechproj\utilities\HibernateUtil.class
+com\elbatechproj\PeoplePerCountryApplication$1.class
+com\elbatechproj\service\PeopleService.class
+com\elbatechproj\PeoplePerCountryApplication.class
+com\elbatechproj\repository\PeopleRepository.class
