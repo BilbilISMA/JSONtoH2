@@ -6,11 +6,11 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-@Repository
+//@Repository
 public interface IPeopleRepository
 {
-    public void save(List<People> list);
-    public Iterable<People> getAll();
-    public Iterable<PeopleByCountry> getPeoplePercentageByCountry();
+    void save(List<People> list);
+    Iterable<People> getAll();
+    Iterable<PeopleByCountry> getPeoplePercentageByCountry();
 }
 
